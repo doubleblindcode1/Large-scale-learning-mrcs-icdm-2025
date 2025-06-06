@@ -19,4 +19,7 @@ Please install the libraries in requirements.txt and obtain a free academic lice
 python3 <scriptname> <dataset> <random_seed>
 ```
 
-The results are printed on the output console.
+The results are printed on the output console. The experimental results are averaged over random seeds 0, 1,..., 9. Note that large datasets are not uploaded to this repository but are easily available online. 
+
+See https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/ for real_sim and news20 dataset
+See https://github.com/MachineLearningBCAM/Datasets/tree/main/data/multi_class_datasets for mnist, fashion_mnist, cifar10 datasets.
