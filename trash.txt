@@ -1,0 +1,150 @@
+
+
+
+
+###### SAMPLE NUMBER 1
+###### DIFFERENCE VARIANCE 1000000.0
+
+Number of iterations: 20
+Shape: (5120, 512)
+Len support smoothing: 512
+Number violated constraints: 4824
+Convergence rate    : 0.011
+Time smoothing: 0.561
+
+Number of iterations: 20
+Shape: (4824, 512)
+Len support smoothing: 512
+Number violated constraints: 4559
+Convergence rate    : 0.008
+Time smoothing: 0.513
+
+Number of iterations: 1
+Shape: (4824, 512)
+Len support smoothing: 512
+Number violated constraints: 4548
+Convergence rate    : 0.001
+Time smoothing: 0.047
+
+Number of iterations: 1
+Shape: (4824, 512)
+Len support smoothing: 512
+Number violated constraints: 4546
+Convergence rate    : 0.001
+Time smoothing: 0.051
+
+Number of iterations: 1
+Shape: (4824, 512)
+Len support smoothing: 512
+Number violated constraints: 4542
+Convergence rate    : 0.0
+Time smoothing: 0.054
+
+Number of iterations: 1
+Shape: (4824, 512)
+Len support smoothing: 512
+Number violated constraints: 4538
+Convergence rate    : 0.0
+Time smoothing: 0.048
+
+Number of iterations: 1
+Shape: (4824, 512)
+Len support smoothing: 512
+Number violated constraints: 4538
+Convergence rate    : 0.0
+Time smoothing: 0.046
+
+Number of iterations: 1
+Shape: (4824, 512)
+Len support smoothing: 512
+Number violated constraints: 4536
+Convergence rate    : 0.0
+Time smoothing: 0.05
+
+Number of iterations: 1
+Shape: (4824, 512)
+Len support smoothing: 512
+Number violated constraints: 4536
+Convergence rate    : 0.0
+Time smoothing: 0.046
+
+Number of iterations              : 8
+Total time smoothing for hinge: 1.464
+
+
+
+###### SAMPLE NUMBER 2
+###### DIFFERENCE VARIANCE 0.23117245598351296
+
+Number of iterations: 20
+Shape: (5120, 512)
+Len support smoothing: 512
+Number violated constraints: 4749
+Convergence rate    : 0.011
+Time smoothing: 0.561
+
+Number of iterations: 20
+Shape: (4749, 512)
+Len support smoothing: 512
+Number violated constraints: 4539
+Convergence rate    : 0.008
+Time smoothing: 0.492
+
+Number of iterations: 1
+Shape: (4749, 512)
+Len support smoothing: 512
+Number violated constraints: 4534
+Convergence rate    : 0.001
+Time smoothing: 0.045
+
+Number of iterations: 1
+Shape: (4749, 512)
+Len support smoothing: 512
+Number violated constraints: 4531
+Convergence rate    : 0.001
+Time smoothing: 0.044
+
+Number of iterations: 1
+Shape: (4749, 512)
+Len support smoothing: 512
+Number violated constraints: 4529
+Convergence rate    : 0.0
+Time smoothing: 0.045
+
+Number of iterations: 1
+Shape: (4749, 512)
+Len support smoothing: 512
+Number violated constraints: 4526
+Convergence rate    : 0.0
+Time smoothing: 0.045
+
+Number of iterations: 1
+Shape: (4749, 512)
+Len support smoothing: 512
+Number violated constraints: 4525
+Convergence rate    : 0.0
+Time smoothing: 0.046
+
+Number of iterations: 1
+Shape: (4749, 512)
+Len support smoothing: 512
+Number violated constraints: 4523
+Convergence rate    : 0.0
+Time smoothing: 0.051
+
+Number of iterations: 1
+Shape: (4749, 512)
+Len support smoothing: 512
+Number violated constraints: 4522
+Convergence rate    : 0.0
+Time smoothing: 0.048
+
+Number of iterations              : 8
+Total time smoothing for hinge: 1.402
+
+
+
+FINISHED
+Len dual smoothing: 30336
+Total time: 2.945
+Size of model: [30336, 512]
